@@ -1,11 +1,14 @@
 # Graph-engine-contest
 1.	Insert the Python script in the same Folder of the file with the data of Pokec
 2.	Run the script and answers the following questions
+
 a.	“Select operator
 [1]: Neighbor Match      
 [2]: Common Neighbor Match”
 Always Insert 1 for the neighbor match
+
 b.	“Insert number of edges to import. For example 5000.”
+
 c.	“Insert depth of the walk.
 For example:
 depth=1      a->b     
@@ -14,8 +17,10 @@ depth=3      a->b->c->d
   
 Minimum depth=1
 Maximum depth=11”
+
 d.	“Insert the starting node.
 Nodes are between 1 and [maximum number], according to the selected edges”     
+
 e.	“Select the method to use for the queries:
 [1]: HASH Table
 [2]: CSR
